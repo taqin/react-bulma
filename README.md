@@ -1,4 +1,5 @@
-# React starter with Bulma integration.
+# React starter with Bulma integration. :fire:
+
 
 ## Notes
 1. Added Axios to connect with an API service.
@@ -12,4 +13,4 @@ API='https://api.exchangeratesapi.io/latest?base=USD'
 ## Built With
 
 * [React](https://reactjs.org) - The JavaScript library for building user interfaces.
-* [Bulma](https://bulma.io/) - An open source CSS framework based on Flexbox and used by more than 150,000 developers..
+* [Bulma](https://bulma.io/) - An open source CSS framework based on Flexbox and used by more than 150,000 developers.
